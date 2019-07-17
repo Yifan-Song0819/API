@@ -1,0 +1,14 @@
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Users/jamessong/Desktop/git/API/TodoApi/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
