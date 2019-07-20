@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 
 
+// add ad database context
 namespace TodoApi.Models
 {
     public class TodoContext : DbContext
