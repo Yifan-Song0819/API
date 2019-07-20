@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{2D6ADAEB-233A-4726-9D4E-62923BC9B13A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Controllers/TodoController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApi/Controllers/ValuesController.cs">
     <Files>
       <File FileName="TodoApi/Models/TodoItem.cs" Line="11" Column="1" />
       <File FileName="TodoApi/Models/TodoContext.cs" Line="18" Column="1" />
       <File FileName="TodoApi/Startup.cs" Line="32" Column="54" />
-      <File FileName="TodoApi/Controllers/TodoController.cs" Line="10" Column="19" />
+      <File FileName="TodoApi/Controllers/TodoController.cs" Line="90" Column="10" />
+      <File FileName="TodoApi/Controllers/ValuesController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +13,7 @@
           <Node name="TodoApi" expanded="True">
             <Node name="TodoApi" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="TodoController.cs" selected="True" />
+                <Node name="ValuesController.cs" selected="True" />
               </Node>
               <Node name="Models" expanded="True" />
             </Node>
